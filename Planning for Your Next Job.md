@@ -88,6 +88,7 @@ Note:
 * Quality mentorship is rare, but makes a huge difference in candidate success
 * Often difficult, sometimes rewarding
 
+![](img\postdoc_to_tt.png)
 > About ⅓ of STEM Postdocs go on to TT Positions*
 > On Average 10-15% of STEM PhDs receive even one tenure track job offer
 

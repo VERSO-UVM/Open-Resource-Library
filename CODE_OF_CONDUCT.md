@@ -23,6 +23,9 @@ The full Code applies to all University of Vermont personnel. Personnel includes
 ### What is Wrongdoing?
 Real or suspected violations of legal and regulatory requirements (laws, acts, statutes, regulations), policies and procedures, and/or professional standards. Fraudulent or dishonest conduct resulting in violation of law or University policy.
 
+### Artifical Intelligence Usage
+While it is not explicitly said that there should not be any AI generated code being used, it is encouraged that AI only be used for research and understanding purpose only. It hinders the coders that are using AI generated code from learning and may be wrong anyway. There should be only original code or cited code being used for the contributions being made by developers. 
+
 ### Compliance Reporting System
 The University has established a robust compliance reporting system made up of several reporting mechanisms. For more information on available reporting mechanisms, review the [Whistleblower
 Policy: Reporting, Protections, & Non-Retaliation policy](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.uvm.edu/sites/default/files/UVM-Policies/policies/whistleblower.pdf).

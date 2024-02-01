@@ -13,6 +13,11 @@ Respecting open source licenses is paramount. Ethical developers ensure they und
 ## Attribution and Credit
 Ethical behavior includes giving proper attribution to authors and contributors. Recognizing the work of others and acknowledging their contributions is a fundamental aspect of open source ethics.
 
+## Artifical Intelligence Use 
+Using AI to generate code to be used in the development of this project is non-ethical and wrong. All developmental code must be written by authors of the program. No developmental code should be copied and pasted into functional code. 
+
+AI may be used to generate simple and basic documentation, pending reviewal by the author of the code. Asking AI questions as to help with understanding code is something that is encouraged. Asking AI a clarifying question, using it as a resource like GeekforGeeks, Stack Overflow, and others is encouraged as well. 
+
 ## Community Collaboration
 Ethical open source participants engage in constructive and respectful collaboration. They avoid harmful or divisive behaviors, promoting a positive and supportive environment within the community.
 

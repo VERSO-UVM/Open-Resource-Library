@@ -2,11 +2,11 @@ import { themes } from 'prism-react-renderer';
 
 export default {
   title: 'VERSO Open Resource Library',
-  tagline: ':p',
+  tagline: 'Learn, explore, and create open source practices.',
   favicon: 'https://verso.w3.uvm.edu/wp-content/uploads/2023/08/cropped-Logo_verso2-1-1-192x192.png',
 
-  url: 'https://example.com', // TODO: Domain?
-  baseUrl: '/',
+  url: 'https://verso-uvm.github.io', // TODO: Domain?
+  baseUrl: '/Open-Resource-Library/',
 
   // GitHub pages deployment config.
   organizationName: 'VERSO-UVM',

@@ -1,4 +1,4 @@
-# Leadership Skills in Open Source
+# Leadership Skills
 
 Effective leadership plays a crucial role in the success and sustainability of open source projects. Open source communities thrive on collaboration, and skilled leaders are essential for guiding contributors, making decisions, and fostering a positive and productive environment. In this guide, we'll explore the key leadership skills and qualities that are valuable in the open source ecosystem.
 

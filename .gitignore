@@ -1,0 +1,11 @@
+# Docusaurus
+node_modules/
+build/
+.docusaurus/
+
+# IDE
+.idea/
+
+# Misc
+.DS_Store
+.env*

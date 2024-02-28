@@ -47,8 +47,8 @@ To write good open source documentation, there are a few key things you should k
 - Keep it up to date: As the project evolves, make sure to update the documentation to reflect any changes or new features. This will ensure that the documentation stays relevant and accurate.
 - Get feedback: Ask other contributors or users to review the documentation and provide feedback. This can help identify any gaps or areas that need clarification.
 
-## Refencences
-The Documentation System – [https://documentation.divio.com/](https://documentation.divio.com/)
-Wikipedia- [https://en.wikipedia.org/wiki/Documentation](https://en.wikipedia.org/wiki/Documentation)
-Types of documentation and their importance – [https://padakuu.com/types-of-documentation-and-their-importance-14-article](https://padakuu.com/types-of-documentation-and-their-importance-14-article)
-Software Documentation Types and Best Practices – [https://blog.prototypr.io/software-documentation-types-and-best-practices-1726ca595c7f](https://blog.prototypr.io/software-documentation-types-and-best-practices-1726ca595c7f)
+## References
+- [The Documentation System](https://documentation.divio.com/)
+- [Wikipedia's documentation page](https://en.wikipedia.org/wiki/Documentation)
+- [Types of documentation and their importance](https://padakuu.com/types-of-documentation-and-their-importance-14-article)
+- [Software Documentation Types and Best Practices](https://blog.prototypr.io/software-documentation-types-and-best-practices-1726ca595c7f)

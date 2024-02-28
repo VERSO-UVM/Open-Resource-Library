@@ -134,7 +134,7 @@ To use the BSD license, developers need to copy the text as provided and include
 This licenses allow commercial use. Users do not have to provide any other source code when releasing new software. 
 
 ## Links
-[https://www.synopsys.com/blogs/software-security/top-open-source-licenses/]()
+[https://www.synopsys.com/blogs/software-security/top-open-source-licenses/](https://www.synopsys.com/blogs/software-security/top-open-source-licenses/)
 [https://choosealicense.com/licenses/](https://choosealicense.com/licenses/)
 [https://opensource.org/licenses-draft](https://opensource.org/licenses-draft)
 MIT License

@@ -1,4 +1,8 @@
-# Open Source Principles and Philosophy
+---
+sidebar_position: 1
+---
+
+# What is Open Source?
 
 Open Source can mean a much broad selection of subjects, like the idea of Open Access for research where all research is published in a way that the public does not have to pay to access the work. Or the idea of Open Innovation where concepts, tools and methods that help drive innovation may be shared, like posting 3D models for printing or royalty free images for use on websites. Open source code can be used for studying and allows capable end users to adapt software to their personal needs in a similar way user scripts and custom style sheets allow for web sites, and eventually publish the modification as a fork for users with similar preferences, and directly submit possible improvements as pull requests.
 

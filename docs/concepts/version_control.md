@@ -1,4 +1,4 @@
-# Version Control:
+# Version Control
 
 Defintion
 "A version control system, or VCS, tracks the history of changes as people and teams collaborate on projects together. As developers make changes to the project, 

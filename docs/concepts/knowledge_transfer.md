@@ -1,4 +1,4 @@
-# Knowledge Transfer in Open Source
+# Knowledge Transfer
 
 Knowledge transfer is a critical aspect of open source development that ensures the continuity and growth of projects by sharing expertise and information among contributors. In open source, knowledge transfer helps onboard new contributors, maintain project stability, and foster a collaborative environment. In this guide, we'll explore how knowledge transfer takes place within the open source community.
 

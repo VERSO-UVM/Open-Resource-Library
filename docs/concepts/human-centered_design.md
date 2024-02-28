@@ -1,4 +1,4 @@
-# Human-Centered Design in Open Source
+# Human-Centered Design
 
 Human-Centered Design (HCD) is a user-focused approach to designing products, services, or solutions that prioritize the needs, preferences, and experiences of the end-users. In open source projects, HCD is increasingly recognized as a valuable methodology for creating software that is intuitive, accessible, and user-friendly. In this guide, we'll explore the principles and practices of HCD in the context of open source development.
 

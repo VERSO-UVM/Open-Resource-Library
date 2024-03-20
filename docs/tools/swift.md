@@ -37,8 +37,8 @@ To apply for the Investigator Support Program, applicants must complete and subm
 ## Spatial Computing News
 Spatial computing is a technology that integrates virtual elements into the real world. While Apple isn't the pioneer in this field, it has invested in the idea with its AR/VR headset, the Apple Vision Pro. Spatial computing, demonstrated through devices like the Apple Vision Pro, Microsoft HoloLens, Meta Quest Pro, and Magic Leap, overlays virtual objects onto real-world scenes, creating a three-dimensional experience. 
 
-* [Apple Vision Pro unlocks new opportunities for health app developers - March 11, 2024](https://www.apple.com/newsroom/2024/03/apple-vision-pro-unlocks-new-opportunities-for-health-app-developers/)
-* [Spotlight on: Developer tools for visionOS - June 21, 2023](https://developer.apple.com/news/?id=765ce4l3)
-* [Design for spatial input](https://developer.apple.com/wwdc23/10073)
-* [Design considerations for vision and motion](https://developer.apple.com/wwdc23/10078)
+- [Apple Vision Pro unlocks new opportunities for health app developers - March 11, 2024](https://www.apple.com/newsroom/2024/03/apple-vision-pro-unlocks-new-opportunities-for-health-app-developers/)
+- [Spotlight on: Developer tools for visionOS - June 21, 2023](https://developer.apple.com/news/?id=765ce4l3)
+- [Design for spatial input](https://developer.apple.com/wwdc23/10073)
+- [Design considerations for vision and motion](https://developer.apple.com/wwdc23/10078)
 

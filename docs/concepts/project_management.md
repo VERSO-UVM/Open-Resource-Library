@@ -2,7 +2,7 @@
 
 Project management is the process that guides a team’s work to accomplish all project goals within certain parameters. The goal of project management is to produce a complete project that meets these objectives. 
 
-No matter the type of Open Source project, whether it is publishing a research paper openly or creating a new library for a programming language, you will have to work with others. Managing those interactions will help it be on time with what you envisioned.
+No matter the type of Open Source project, whether it is publishing a research paper openly or creating a new library for a programming language, you will have to work with others. In managing those interactions, it will help it be on time with what you envisioned.
 
 ## Project Phases
 The phases of project management refer to the different stages that a project goes through from its inception to its completion. These phases typically include:

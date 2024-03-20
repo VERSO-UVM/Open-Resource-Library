@@ -5,8 +5,8 @@ export default {
   tagline: 'Learn, explore, and create open source practices.',
   favicon: 'https://verso.w3.uvm.edu/wp-content/uploads/2023/08/cropped-Logo_verso2-1-1-192x192.png',
 
-  url: 'https://verso-uvm.github.io', // TODO: Domain?
-  baseUrl: '/Open-Resource-Library/',
+  url: 'https://openresourcelibrary.com', // TODO: Domain?
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   organizationName: 'VERSO-UVM',

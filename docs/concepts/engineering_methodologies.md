@@ -28,7 +28,7 @@ Design Thinking is a human-centered approach to problem-solving and product deve
 
 ## DevOps
 
-DevOps combines development and IT operations to streamline the software delivery process. It encourages automation, collaboration, and continuous integration/continuous deployment (CI/CD) practices. DevOps methodologies aim to shorten development cycles and increase software reliability.
+DevOps combines development and IT operations to streamline the software delivery process. It encourages automation, collaboration, and continuous integration/continuous deployment (CI/CD) practices. 
 
 ## Rapid Application Development (RAD)
 

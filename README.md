@@ -10,18 +10,15 @@ Learn, explore, and create open source practices.
 
 ### Local development
 
-To work on the Open Resource Library (ORL) locally, you must have a JavaScript runtime and package manager installed in your system.
-The production version of the ORL uses [Bun](https://bun.sh) to fill both these roles, but a more standard installation of
-[Node.js and NPM](https://nodejs.org), [Yarn](https://yarnpkg.com), or [PNPM](https://pnpm.io) will work too.
-For simplicity purposes, we will use `bun` as the package manager of choice here.
+To work on the Open Resource Library (ORL) locally, you must have [Bun](https://bun.sh) installed, as it is the runtime and package manager of choice for the ORL.
 
-Once Bun (or an alternative) is installed, install dependencies with:
+##### Install dependencies
 
 ```bash
 bun i
 ```
 
-Once this is done, you can now start the development server with:
+##### Start the development server
 
 ```bash
 bun start
@@ -30,13 +27,13 @@ bun start
 This will open a browser window to [localhost:3000](http://localhost:3000), which will be updated live with any changes you make to the library.
 (Note: you may append `--no-open` to this command to prevent the opening of a new browser window)
 
-To test the generated static site locally on your machine, run:
+##### Build the site
 
 ```bash
 bun run build
 ```
 
-This will generate a static site to the `build` directory locally, which you can preview in your browser with:
+##### Preview the built site
 
 ```bash
 bun serve
@@ -60,4 +57,3 @@ A page's position on the sidebar can also be modified with the `sidebar_position
 
 That covers the basics of editing the ORL, but Docusaurus is an extensive tool with many so-far unused features.
 If you would like to learn more about Docusaurus and it's features, you can do so at the [Docusaurus docs](https://docusaurus.io/docs).
-

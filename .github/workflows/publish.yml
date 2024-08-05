@@ -1,5 +1,9 @@
-on: [push]
+
 name: Publish commit
+
+on:
+  - push:
+    branches: [main]
 
 jobs:
   build:

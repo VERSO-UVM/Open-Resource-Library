@@ -2,7 +2,7 @@
 name: Publish commit
 
 on:
-  - push:
+  push:
     branches: [main]
 
 jobs:

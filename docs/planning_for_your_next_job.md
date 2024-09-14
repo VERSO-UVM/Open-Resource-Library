@@ -43,7 +43,7 @@ What do you want to do (next)?
 * Imagine: Be in the role. What’s a day in the life like? How do you think you’ll feel?
 * Experiment: Try it out! What was it like? How did you feel about it?\
 
-# Pathes for A Graduate Student
+# Paths for A Graduate Student
 
 > ⅓ to ½ of STEM PhD grads go into postdoc positions
 

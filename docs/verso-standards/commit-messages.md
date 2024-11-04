@@ -47,7 +47,7 @@ As mentioned above, select projects may have a stricter format for commit messag
 - `docs`: Improves or alters documentation
 - `chore`: Formatting stuff, non-breaking-change updates
 
-Types are _always_ lowercase.
+Types are _always_ lowercase.z
 
 Additionally, if a `feat`/`fix` contains a [breaking change](#breaking-change) it can be suffixed with a bang (`!`) like this: `feat!: <subject>`
 
@@ -57,7 +57,7 @@ Additionally, if a `feat`/`fix` contains a [breaking change](#breaking-change) i
 
 `<optional footer>` can be used to note things like related issues, who reviewed something, etc. This is not something a dev needs to think about on a day-to-day basis. [More info](#footers)
 
-Any given line must not be longer than 80-100 characters! Use linebreaks/newlines when necessary; with the exception that if your subject needs a linebreak, it's probably too long.
+Each section is separated by two newlines, per the standard. Any given line must not be longer than 80-100 characters! Use linebreaks/newlines when necessary; with the exception that if your subject needs a linebreak, it's probably too long.
 
 ### More Format Options
 

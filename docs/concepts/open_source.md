@@ -87,7 +87,7 @@ There are those in the open-source software community who hold that an “open s
 Open standards which specify formats are sometimes referred to as open formats.
 
 ## History of Open Source Source
-### End of 1990s: Foundation of the Open Source Initiative
+### Up to 2000: Foundation of the Open Source Initiative
 
 (source: wikipedia)
 The concept of sharing information and code was part of tOpen-source notion moved to the wayside of commercialization of software in the years 1970–1980. However, academics still often developed software collaboratively. Examples are Donald Knuth in 1979 with the TeX typesetting system and Richard Stallman in 1983 with the GNU operating system. The free-software movement was launched in 1983. 
@@ -95,6 +95,10 @@ The concept of sharing information and code was part of tOpen-source notion move
 In 1997, Eric Raymond published The Cathedral and the Bazaar, a reflective analysis of the hacker community and free-software principles. The paper received significant attention in early 1998, and was one factor in motivating Netscape Communications Corporation to release their popular Netscape Communicator Internet suite as free software. This source code subsequently became the basis behind SeaMonkey, Mozilla Firefox, Thunderbird and KompoZer.
 
 The Open Source Initiative (OSI) was formed in February 1998 by Eric Raymond and Bruce Perens. The OSI presented the “open source” case to commercial businesses, like Netscape. The OSI hoped that the use of the label “open source”, a term suggested by Christine Peterson of the Foresight Institute at the strategy session, would eliminate ambiguity, particularly for individuals who perceive “free software” as anti-commercial. They sought to bring a higher profile to the practical benefits of freely available source code, and they wanted to bring major software businesses and other high-tech industries into open source. 
+
+### Since 2000: Open Source in the 21st Century
+
+Since the start of the 21st century, there have been several major developments in open-source software that are used by billions of people around the world on a daily basis. Dominic Mazzoni and Roger Dannenberg, two students at Carnegie Mellon University, first developed and released Audacity, an audio recording and editing software. In 2004, Mozilla Foundation released the first version of Firefox, a major web browser, peaking with 32% of all web traffic in 2009. In response to the development of Firefox, Google released Chromium, an open-source web browser project that is the basis of most modern web browsers. 
 
 An important legal milestone for the open source / free software movement was passed in 2008, when the US federal appeals court ruled that free software licenses definitely do set legally binding conditions on the use of copyrighted work, and they are therefore enforceable under existing copyright law. As a result, if end-users violate the licensing conditions, their license disappears, meaning they are infringing copyright. Despite this licensing risk, most commercial software vendors are using open-source software in commercial products while fulfilling the license terms, e.g. leveraging the Apache license.
 

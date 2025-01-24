@@ -23,7 +23,7 @@ The full Code applies to all University of Vermont personnel. Personnel includes
 ### What is Wrongdoing?
 Real or suspected violations of legal and regulatory requirements (laws, acts, statutes, regulations), policies and procedures, and/or professional standards. Fraudulent or dishonest conduct resulting in violation of law or University policy.
 
-### Artifical Intelligence Usage
+### Artificial Intelligence Usage
 While it is not explicitly said that there should not be any AI generated code being used, it is encouraged that AI only be used for research and understanding purpose only. It hinders the coders that are using AI generated code from learning and may be wrong anyway. There should be only original code or cited code being used for the contributions being made by developers. 
 
 ### Compliance Reporting System
@@ -43,7 +43,7 @@ Above and beyond the requirements from the University of Vermont Code of Conduct
 We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
 
 ### Be friendly and patient
-We are a group of students, professionals, researchs, volunteers all with different amounts of time to give, expertise and lives that influence each of us. Take a second to be curious, not judgemental and reach out to help rather than critisize.
+We are a group of students, professionals, researchers, volunteers all with different amounts of time to give, expertise and lives that influence each of us. Take a second to be curious, not judgemental and reach out to help rather than criticize.
 
 ### Be considerate
 Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we're a world-wide community, so you might not be communicating in someone else's primary language.
@@ -63,7 +63,7 @@ Do not insult or put down other participants. Harassment and other exclusionary 
 Repeated harassment of others. In general, if someone asks you to stop, then stop.
 
 ### When we disagree, try to understand why
-Disagreements, both social and technical, happen all the time and this community is no exception. It is important that we resolve disagreements and differing views constructively. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong and insteadd focus on helping to resolve issues to advance the common goals (like fixing an issues to help users) and learning from mistakes.
+Disagreements, both social and technical, happen all the time and this community is no exception. It is important that we resolve disagreements and differing views constructively. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong and instead focus on helping to resolve issues to advance the common goals (like fixing an issues to help users) and learning from mistakes.
 
 ### Ask for help when unsure
 Nobody is expected to be perfect in this community. Asking questions early avoids many problems later, so questions are encouraged, though they may be directed to the appropriate forum. Those who are asked should be responsive and helpful. 

@@ -84,7 +84,7 @@ Commonly used options:
 
 - `-m <message>` - Add a message to the commit
 - `-a` - Automatically stage tracked files that have been modified or deleted
-- `--ammend` - Redo the last commit, amending the commit message or the committed files
+- `--amend` - Redo the last commit, amending the commit message or the committed files
 
 :::tip
 Making many smaller commits with meaningful messages is often easier for contributors than fewer large commits.

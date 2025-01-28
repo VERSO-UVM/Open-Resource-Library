@@ -32,8 +32,6 @@ Many developers tend to make large, infrequent commits full of unrelated changes
 
 There is an [excellent blogpost by Tim Ottinger on the Industrial Logic blog.](https://www.industriallogic.com/blog/whats-this-about-micro-commits/)
 
-#### Steven J Owens
-
 This is [copied from Qoura](https://www.quora.com/What-is-the-meaning-of-Micro-Commit-in-Git-Is-it-for-the-small-changes-If-it-is-then-how-can-we-perform-Micro-Commit-for-small-changes/answer/Steven-J-Owens?ch=10&share=eee75e4d&srid=ifcN)
 
 > A2A. I hadn’t heard the term before this question but a quick google suggests that “microcommits” appears to be either a new term for “good practices for revision control commits”, or possibly taking those regular good practices and turning the dial up to 11.

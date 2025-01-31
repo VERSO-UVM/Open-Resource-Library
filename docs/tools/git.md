@@ -118,7 +118,15 @@ While Git can be used entirely locally, most projects host their projects on a G
 
 ### Setting Remotes
 
-When cloning a repository, Git will automatically set the cloned server as a remote
+When cloning a repository, Git will automatically set the cloned server as a remote.
+
+To add a remote to a local repository: `git remote add origin <remote-url>`
+
+Here, `origin` is the commonly chosen name to refer to the remote repository. Replace `<remote-url>` with the URL of the remote repository. On GitHub, for example, this may look like "https://github.com/VERSO-UVM/Open-Resource-Library.git" or "git@github.com:VERSO-UVM/Open-Resource-Library.git" depending on whether you are accessing through HTTPS or SSH.
+
+Then, to push the changes from your local repository: `git push --set-upstream origin main`
+
+Replace `main` with the branch to push from. The `--set-upstream` option (also shortened as `-u`) tells Git to always default to using the remote for future `push` and `pull` commands from the branch.
 
 ## References
 

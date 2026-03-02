@@ -46,6 +46,7 @@ Install Git using your distribution's package manager:
 ### Basic Configuration
 
 After installation, configure Git by setting your username and email:
+
 ```sh
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
@@ -118,15 +119,197 @@ While Git can be used entirely locally, most projects host their projects on a G
 
 ### Setting Remotes
 
-When cloning a repository, Git will automatically set the cloned server as a remote.
+When cloning a repository, Git will automatically set the cloned server as a remote named `origin`.
 
-To add a remote to a local repository: `git remote add origin <remote-url>`
+```sh
+# View configured remotes
+git remote -v
 
-Here, `origin` is the commonly chosen name to refer to the remote repository. Replace `<remote-url>` with the URL of the remote repository. On GitHub, for example, this may look like "https://github.com/VERSO-UVM/Open-Resource-Library.git" or "git@github.com:VERSO-UVM/Open-Resource-Library.git" depending on whether you are accessing through HTTPS or SSH.
+# Add a new remote
+git remote add origin https://github.com/username/repo.git
 
-Then, to push the changes from your local repository: `git push --set-upstream origin main`
+# Push a branch to a remote
+git push origin main
 
-Replace `main` with the branch to push from. The `--set-upstream` option (also shortened as `-u`) tells Git to always default to using the remote for future `push` and `pull` commands from the branch.
+# Push and set upstream (so future pushes just need `git push`)
+git push -u origin main
+
+# Fetch changes from the remote without merging
+git fetch origin
+
+# Pull (fetch + merge) changes from the remote
+git pull origin main
+```
+
+## Undoing Changes
+
+One of Git's most valuable features is the ability to undo mistakes.
+
+### Unstaging Files
+
+```sh
+# Remove a file from the staging area (keep changes in working directory)
+git restore --staged file.txt
+```
+
+### Discarding Working Directory Changes
+
+```sh
+# Discard uncommitted changes to a file (this cannot be undone!)
+git restore file.txt
+
+# Discard all uncommitted changes
+git restore .
+```
+
+### Undoing Commits
+
+```sh
+# Undo the last commit but keep the changes staged
+git reset --soft HEAD~1
+
+# Undo the last commit and unstage the changes
+git reset HEAD~1
+
+# Create a new commit that reverses a previous commit (safe for shared history)
+git revert <commit-hash>
+```
+
+:::warning
+Avoid using `git reset --hard` or `git push --force` on shared branches — these rewrite history and can cause problems for other contributors.
+:::
+
+## Stashing
+
+Stashing lets you temporarily set aside changes without committing them. Useful when you need to switch branches but aren't ready to commit.
+
+```sh
+# Save current changes to the stash
+git stash
+
+# List stashed changes
+git stash list
+
+# Apply the most recent stash and keep it in the list
+git stash apply
+
+# Apply and remove the most recent stash
+git stash pop
+
+# Stash with a descriptive message
+git stash push -m "work in progress on feature X"
+```
+
+## Viewing History
+
+```sh
+# Full commit log
+git log
+
+# Condensed one-line log
+git log --oneline
+
+# Show a graph of branches and merges
+git log --oneline --graph --all
+
+# Show what changed in a specific commit
+git show <commit-hash>
+
+# Show who last modified each line of a file
+git blame file.txt
+```
+
+## Rebasing
+
+Rebasing is an alternative to merging. Instead of creating a merge commit, it replays your commits on top of another branch, resulting in a cleaner linear history.
+
+```sh
+# Rebase the current branch onto main
+git rebase main
+```
+
+**Interactive rebase** lets you rewrite, combine, and reorder commits:
+
+```sh
+# Interactively rebase the last 3 commits
+git rebase -i HEAD~3
+```
+
+In the interactive editor you can:
+
+- `pick` — keep the commit as-is
+- `squash` (or `s`) — combine with the previous commit
+- `reword` (or `r`) — keep the commit but edit the message
+- `drop` (or `d`) — remove the commit entirely
+
+:::tip
+Squashing commits before merging a PR makes the project history cleaner — a series of work-in-progress commits becomes a single, well-described commit.
+:::
+
+## Tags
+
+Tags mark specific commits as significant — typically used to mark releases.
+
+```sh
+# Create a lightweight tag
+git tag v1.0.0
+
+# Create an annotated tag (recommended)
+git tag -a v1.0.0 -m "Release version 1.0.0"
+
+# List tags
+git tag
+
+# Push tags to a remote
+git push origin --tags
+```
+
+## .gitignore
+
+A `.gitignore` file tells Git which files to never track. Place one at the root of your repository.
+
+```text
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node.js
+node_modules/
+
+# Editor files
+.vscode/settings.json
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+```
+
+[gitignore.io](https://www.gitignore.io) generates `.gitignore` files for any language or framework.
+
+## Common Workflow
+
+A typical day-to-day Git workflow looks like this:
+
+```sh
+# 1. Make sure you're up to date
+git pull origin main
+
+# 2. Create a new branch for your work
+git checkout -b feature/my-feature
+
+# 3. Make changes, then stage and commit them
+git add changed-file.py
+git commit -m "feat: add new data processing step"
+
+# 4. Push the branch to GitHub
+git push -u origin feature/my-feature
+
+# 5. Open a pull request on GitHub
+# 6. After review and approval, merge into main
+```
 
 ## References
 
@@ -136,3 +319,5 @@ Replace `main` with the branch to push from. The `--set-upstream` option (also s
 - [Official Git documentation](https://git-scm.com/doc)
 - [GitHub Git guide](https://github.com/git-guides)
 - [ArchWiki Git page](https://wiki.archlinux.org/title/Git)
+- [Oh Shit, Git!?!](https://ohshitgit.com) — plain-English solutions to common Git mistakes
+- [Learn Git Branching](https://learngitbranching.js.org) — interactive visual tutorial

@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # SSH
 
 Secure Shell (SSH) is a protocol for remotely sending commands to a given Unix-based computer. Invented as a secure replacement for `telnet` and other insecure protocols, it employs cryptography to safely control remote computers over unsecured networks. It was invented in 1995 by Tatu Ylönen, a computer scientist from Finland. It is most commonly used for remote command line execution and file transfers (a common example being Git over SSH).

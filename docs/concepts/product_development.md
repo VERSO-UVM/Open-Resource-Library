@@ -1,3 +1,7 @@
+---
+sidebar_position: 21
+---
+
 # Product Development
 In business and engineering, new product development covers the complete process of bringing a new product to market, renewing an existing product or introducing a product in a market.  It requires an understanding of customer needs and wants, the competitive environment, and the nature of the market.
 

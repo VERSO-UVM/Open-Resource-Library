@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 # Security Basics
 
 Security is not just for security engineers — every developer has a responsibility to write code that protects users and data. This page covers the foundational security practices that every student and researcher should know.

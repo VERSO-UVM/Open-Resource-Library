@@ -1,3 +1,7 @@
+---
+sidebar_position: 9
+---
+
 # CI/CD
 
 **CI/CD** stands for **Continuous Integration** and **Continuous Delivery** (or Deployment). It's a set of practices and tools that automate the testing and deployment of software, letting teams ship code more reliably and frequently.

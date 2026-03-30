@@ -1,3 +1,7 @@
+---
+sidebar_position: 8
+---
+
 # APIs
 
 An **API** (Application Programming Interface) is a defined way for two pieces of software to communicate with each other. APIs are everywhere in modern software: when a weather app shows you the forecast, it's fetching data from a weather API. When you log into a site with Google, that site is calling Google's OAuth API.

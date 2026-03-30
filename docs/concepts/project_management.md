@@ -1,3 +1,7 @@
+---
+sidebar_position: 22
+---
+
 # Project Management
 
 Project management is the process that guides a team’s work to accomplish all project goals within certain parameters. The goal of project management is to produce a complete project that meets these objectives. 

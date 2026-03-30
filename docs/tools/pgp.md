@@ -1,4 +1,12 @@
+---
+sidebar_position: 8
+---
+
 # PGP
+
+:::note Work in Progress
+This page is incomplete. The "Setting up GPG", "Using PGP", and "PGP and Git" sections are still being written. Contributions welcome — see the [GitHub repository](https://github.com/VERSO-UVM/Open-Resource-Library).
+:::
 
 Some projects may require you to encrypt or cryptographically sign data.
 The most common tooling for this is based on the [OpenPGP](https://www.openpgp.org) standard.

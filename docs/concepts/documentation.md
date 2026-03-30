@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Documentation
 
 Documentation is any communicable material that is used to describe, explain or instruct regarding some attributes of an object, system or procedure, such as its parts, assembly, installation, maintenance and use.
@@ -46,6 +50,10 @@ To write good open source documentation, there are a few key things you should k
 - Use examples: Wherever possible, use examples to illustrate key concepts and show how to use different features of the project. This can make the documentation more accessible and easier to understand.
 - Keep it up to date: As the project evolves, make sure to update the documentation to reflect any changes or new features. This will ensure that the documentation stays relevant and accurate.
 - Get feedback: Ask other contributors or users to review the documentation and provide feedback. This can help identify any gaps or areas that need clarification.
+
+## See Also
+
+- [Open Source Projects](/concepts/projects) — how to write a good README and CONTRIBUTING file for your project
 
 ## References
 - [The Documentation System](https://documentation.divio.com/)

@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Python
 
 Python is a general-purpose, beginner-friendly programming language widely used in research, data science, web development, automation, and AI. Its readable syntax makes it an excellent first language, and its vast ecosystem of libraries makes it powerful enough for professional use.

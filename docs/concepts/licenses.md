@@ -1,3 +1,7 @@
+---
+sidebar_position: 13
+---
+
 # Open Source Licenses
 
 Open source licenses grant permission for anybody to use, modify, and share licensed software for any purpose, subject to conditions preserving the provenance and openness of the software. 
@@ -133,8 +137,8 @@ To use the BSD license, developers need to copy the text as provided and include
 ### Commercial Use
 This licenses allow commercial use. Users do not have to provide any other source code when releasing new software. 
 
-## Links
-[https://www.synopsys.com/blogs/software-security/top-open-source-licenses/](https://www.synopsys.com/blogs/software-security/top-open-source-licenses/)
-[https://choosealicense.com/licenses/](https://choosealicense.com/licenses/)
-[https://opensource.org/licenses-draft](https://opensource.org/licenses-draft)
-MIT License
+## References
+
+- [Synopsys: Top Open Source Licenses](https://www.synopsys.com/blogs/software-security/top-open-source-licenses/)
+- [Choose a License](https://choosealicense.com/licenses/) — GitHub's guide to picking the right license
+- [OSI Approved Licenses](https://opensource.org/licenses) — the definitive list from the Open Source Initiative

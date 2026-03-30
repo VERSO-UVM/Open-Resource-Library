@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # GitHub
 
 GitHub is a web-based platform built on top of Git that adds collaboration features like issue tracking, pull requests, code review, project management, and hosting for open source and private projects. It is where the vast majority of open source software lives today.

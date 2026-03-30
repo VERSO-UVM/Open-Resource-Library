@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Visual Studio Code
 
 Visual Studio Code (VS Code) is a free, open source code editor made by Microsoft. It's one of the most popular editors in the world, used across web development, data science, systems programming, and research. It runs on Windows, macOS, and Linux.

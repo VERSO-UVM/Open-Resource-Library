@@ -1,3 +1,7 @@
+---
+sidebar_position: 24
+---
+
 # AI and LLMs in Programming
 
 **Large Language Models (LLMs)** have rapidly changed how software is written. Tools like GitHub Copilot, ChatGPT, Claude, and Cursor can generate code, explain errors, write tests, and review pull requests. Understanding what these tools are, how they work, and how to use them responsibly is increasingly important for any programmer.

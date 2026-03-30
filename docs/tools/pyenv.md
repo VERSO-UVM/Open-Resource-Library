@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Pyenv
 
 Pyenv is a tool that lets you install and switch between multiple versions of Python on the same machine. This is essential when working on different projects that require different Python versions, or when a project specifies a particular version.

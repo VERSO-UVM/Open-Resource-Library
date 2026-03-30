@@ -1,3 +1,7 @@
+---
+sidebar_position: 14
+---
+
 # Engineering Methodologies
 
 Engineering methodologies are structured approaches to planning, executing, and managing engineering projects. They provide a systematic framework for designing, developing, and maintaining complex systems, products, or processes. By following established engineering methodologies, teams can ensure efficiency, quality, and successful project outcomes. Here, we explore some commonly used engineering methodologies:
@@ -65,7 +69,7 @@ RAD is an approach that prioritizes rapid prototyping and quick iterations. It a
 The Spiral model is a risk-driven methodology that combines iterative development with elements of the Waterfall model. It involves cycles of planning, risk analysis, engineering, and evaluation. Each iteration addresses potential risks, making it suitable for large and complex projects.
 
 - [ArtofTesting: Spiral Model](https://artoftesting.com/spiral-model)
-- [Broken Link](https://www.spaceo.ca/blog/spiral-model-of-software-development/)
+- [Spaceo: Spiral Model of Software Development](https://www.spaceo.ca/blog/spiral-model-of-software-development/)
 
 ## Six Sigma
 

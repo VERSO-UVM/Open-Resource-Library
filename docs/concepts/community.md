@@ -1,3 +1,7 @@
+---
+sidebar_position: 17
+---
+
 # Community
 
 The open source community is diverse and highly motivated. Whether it’s development or advocacy, open source software and other collaborative projects benefit through, and because of, community.
@@ -35,7 +39,8 @@ The role of an open source community architect involves a variety of tasks and r
 - Developing strategies to grow and engage the community
 - Monitoring and measuring the health and success of the community
 
-## Links
-https://opensource.org/community
+## References
+
+- [Open Source Initiative: Community](https://opensource.org/community)
 
 

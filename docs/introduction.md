@@ -23,42 +23,15 @@ Most pages include a **References** section with links to additional resources i
 
 ## Where to Start
 
-If you're new to open source software development, here's a suggested reading order:
+**New to programming?** Head to the **[Getting Started](/getting-started)** section. It walks you through setting up your machine, learning Markdown, and making your first contribution — all in order.
 
-### 1. Learn the Command Line
+**Already have some experience?** Jump straight to the section most relevant to you:
 
-The terminal is how you interact with most developer tools. Start with the [Command Line](/concepts/command_line) page to get comfortable with basic navigation and commands.
-
-### 2. Learn Git
-
-[Git](/tools/git) is the version control system used by almost every software project. Understanding Git is essential before contributing to any open source project.
-
-### 3. Set Up GitHub
-
-[GitHub](/tools/github) is where most open source projects live. You'll need an account to contribute. Learn how to fork repositories, open pull requests, and work with issues.
-
-### 4. Set Up Your Editor
-
-[Visual Studio Code](/tools/vscode) is a free, powerful code editor used widely in research and industry. The page covers setup, extensions, and the built-in debugger and terminal.
-
-### 5. Pick a Language
-
-The library currently has guides for:
-
-- [Python](/tools/python) — the most common language in research, data science, and scripting
-- [Swift](/tools/swift) — for Apple platforms and research apps using frameworks like ResearchKit
-
-### 6. Learn Key Concepts
-
-Once you have the basics down, explore the Concepts section:
-
-- [Testing](/concepts/testing) — how to write automated tests
-- [Debugging](/concepts/debugging) — how to find and fix bugs
-- [Security Basics](/concepts/security_basics) — keeping secrets out of your code and handling data safely
-- [APIs](/concepts/apis) — how to fetch data from external services
-- [CI/CD](/concepts/ci_cd) — automating testing and deployment
-- [Licenses](/concepts/licenses) — understanding open source licenses
-- [Documentation](/concepts/documentation) — writing good docs for your projects
+- **[Version Control](/concepts/version_control)** and **[Git](/tools/git)** — if you haven't used version control before
+- **[Debugging](/concepts/debugging)** and **[Testing](/concepts/testing)** — software quality fundamentals
+- **[Security Basics](/concepts/security_basics)** — especially important for research computing
+- **[APIs](/concepts/apis)** — fetching and working with external data
+- **[CI/CD](/concepts/ci_cd)** — automating testing and deployment
 
 ## Contributing to This Library
 

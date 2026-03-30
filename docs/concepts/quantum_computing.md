@@ -1,3 +1,7 @@
+---
+sidebar_position: 25
+---
+
 # Quantum Computing and Open Source
 
 Quantum computing is one of the most exciting frontiers in science and technology. Rather than using the 0s and 1s of classical computers, quantum computers exploit the strange behavior of quantum mechanics to perform certain types of computation dramatically faster. While large-scale quantum computers are still being built, the open source ecosystem around quantum computing is already rich, and you can start experimenting today on a regular laptop or through free cloud access to real quantum hardware.

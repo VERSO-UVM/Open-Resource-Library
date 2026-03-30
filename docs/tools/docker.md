@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 # Docker
 
 Docker is a tool that packages software into **containers** — isolated, portable environments that include everything a program needs to run: code, runtime, libraries, and configuration. A container runs the same way on any machine, eliminating the "it works on my machine" problem.

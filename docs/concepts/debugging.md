@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Debugging
 
 Debugging is the process of finding and fixing errors (bugs) in your code. Every programmer spends a significant portion of their time debugging — it's a core skill, not a sign of failure.

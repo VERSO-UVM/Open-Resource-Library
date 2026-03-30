@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Software Testing
 
 In the world of software development, there are many different forms of testing, but they all seek to accomplish the same goal. That is, verify that a program has the correct behavior. In practical terms, that takes many forms. You might be testing that:
@@ -84,3 +88,8 @@ End-to-End tests are typically used to test user interactions with an applicatio
 _This section does not have a pro/con list as it tests a different aspect of the application as compared to the other methods above._
 
 Performance test is fairly self explanatory. It is used to ensure that an application performs consistently; it can help detect if changes have made some portion of the logic run slower. In certain situations, performance can be critical to a good product experience and keeping users on board.
+
+## See Also
+
+- [CI/CD](/concepts/ci_cd) — automate your tests so they run on every push using GitHub Actions
+- [Debugging](/concepts/debugging) — strategies for finding and fixing the bugs your tests uncover

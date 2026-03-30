@@ -1,3 +1,7 @@
+---
+sidebar_position: 16
+---
+
 # Governance
 
 Open-source governance is a political philosophy that applies the principles of open-source and open-content movements to democratic principles. It enables any interested citizen to contribute to the creation of policy, as with a wiki document. The legislation is democratically opened to the general citizenry, employing their collective wisdom to benefit the decision-making process and improve democracy. 

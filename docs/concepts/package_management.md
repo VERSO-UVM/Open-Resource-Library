@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Package Management
 
 A **package manager** is a tool that automates the process of installing, upgrading, configuring, and removing software packages. Rather than manually downloading files and resolving dependencies, a package manager handles all of that for you.

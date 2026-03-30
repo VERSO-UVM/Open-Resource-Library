@@ -1,3 +1,7 @@
+---
+sidebar_position: 15
+---
+
 # Ethics
 Ethics in open source refers to the principles and guidelines that guide the behavior and actions of individuals and communities involved in open source software development. It encompasses a set of values and practices that promote collaboration, transparency, fairness, and responsible use of open source resources. Key aspects of ethics in open source include:
 

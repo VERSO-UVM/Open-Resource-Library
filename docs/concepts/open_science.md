@@ -1,3 +1,7 @@
+---
+sidebar_position: 23
+---
+
 # Open Science
 
 Open Access, or Open Science is the movement to make scientific research (including publications, data, physical samples, and software) free, immediate, online availability of research articles coupled with the rights to use these articles fully in the digital environment to all levels of society, amateur or professional. Open science is transparent and accessible knowledge that is shared and developed through collaborative networks.   

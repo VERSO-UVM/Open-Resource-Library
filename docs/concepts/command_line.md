@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Command Line
 
 The command line (also called the **terminal**, **shell**, or **CLI** — Command Line Interface) is a text-based way to interact with your computer. Instead of clicking icons and menus, you type commands.

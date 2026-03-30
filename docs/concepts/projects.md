@@ -1,3 +1,7 @@
+---
+sidebar_position: 12
+---
+
 # Open Source Projects
 
 Every project is unique but there is often a similar organizational structure. Understanding of terms and roles will help you get quickly oriented to any new project.

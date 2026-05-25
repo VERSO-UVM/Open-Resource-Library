@@ -132,7 +132,15 @@ The field has moved extremely fast. Here are the most significant milestones.
 - **May** — **Claude Sonnet 4 and Claude Opus 4** (Anthropic): next generation focused on extended **agentic tasks** — models that can take sequences of real-world actions (writing and running code, editing files, browsing the web) autonomously over long sessions.
 - **2025** — **"Vibe coding"** (term coined by Andrej Karpathy): describes the practice of building software primarily by describing intent to an AI and iterating on the output — a significant shift in how people (especially non-programmers) create working software. Raised new questions about code ownership and review responsibility.
 - **2025** — The **agentic AI** paradigm matured: rather than single-turn question-answering, models increasingly operate as autonomous agents that plan, use tools, and complete multi-step tasks with minimal human input between steps.
-
+  
+### 2026 — Agents Instructing Agents, Memory, Verification, and the Token Economy
+- **January** — Many companies including Oracle and Meta lay off employees due to AI having the same capabilites. 
+- **February** — **Opus 4.6** (Claude): Introduced agent teams where multiple AI agents can communicate to multitask on a project.
+- **April** — **Google Cloud "Agents, Agents, Agents"** (Google): Strong pivot in google cloud infrastructure to prioritize AI agents on projects on the platform.
+- **April** — **DeepSeek V4 Preview** (DeepSeek, China): Performance gap between OpenAI, Anthropic, and DeepSeek's AI models is practically zero while DeepSeek remains both open source and more token efficient.
+- **May** — **Agentic Google Search** (Google): Searching with google now has more abilites than just finding links, searching now spawns an agent that can perform activities like making transactions. 
+- **2026** — Workflows are being created in both satire and reality where AI agents are prompted to spawn dozens or even hundreds of other agents to do work in parallel and save tokens.
+  
 ## AI Agents and Agentic Programming
 
 One of the most significant shifts since 2024 is the move from **chat-based AI** to **agentic AI**.

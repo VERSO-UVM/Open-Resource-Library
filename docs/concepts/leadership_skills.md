@@ -44,7 +44,7 @@ Open source projects evolve, and leaders must be adaptable in the face of change
 
 ## Transparency and Accountability
 
-Leaders should lead by example when it comes to transparency and accountability. They should provide visibility into project decisions, progress, and financial matters. Being accountable for their actions and decisions builds trust within the community.
+Leaders should lead by example when it comes to transparency and accountability. They should provide visibility into project decisions, progress, and financial matters. When leaders are accountable for their actions and decisions, it builds trust within the community.
 
 ## Mentorship
 

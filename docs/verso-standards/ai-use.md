@@ -26,12 +26,12 @@ The important part here is that spending time coaching an AI tool to output what
 
 ### 1. Generating boilerplate/dummy data
 
-This is among the best uses for AI tools. They are particularly good at pattern recognition so they are great for filling out things like switch case statements, common errors, etc. They can also be used to help generate fake data to test some code.
+These are among the best use cases for AI tools. AI tools are particularly good at pattern recognition so they are great for filling out things like switch case statements, common errors, etc. They can also be used to help generate fake data to test code.
 
 ### 2. Generating tests
 
 AI can be super useful for generating lots of repetitive tests, ie unit/integration/e2e tests.
-However, this is different from above because it still requires human review to ensure that the tests are fully covering a public interface and that they are checking for the correct results.
+However, this is different from the first use case because it still requires human review to ensure that the tests are fully covering a public interface and that they are checking for the correct results.
 
 ### 3. Solving a problem
 

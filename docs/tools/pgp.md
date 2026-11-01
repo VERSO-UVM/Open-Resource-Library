@@ -16,7 +16,7 @@ The most common tooling for this is based on the [OpenPGP](https://www.openpgp.o
 Pretty Good Privacy, or PGP for short, is a program offering encryption and cryptographic authentication for communication and other data.
 Originally developed by Phil Zimmermann in 1991, PGP was soon adopted into the OpenPGP standard (also sometimes just called PGP), allowing for alternate implementations with full interoperability.
 Since then, PGP and its derivatives have been widely used for encrypting or verifying emails and other data among privacy-minded individuals.
-One such derivative, GNU Privacy Guard, also known as GnuPG or GPG, has become so widespread it's name has become effectively synonymous with PGP, so you may see GPG and PGP used interchangeably.
+One such derivative, GNU Privacy Guard, also known as GnuPG or GPG, has become so widespread its name has become effectively synonymous with PGP, so you may see GPG and PGP used interchangeably.
 
 ## Installation and Setup
 
